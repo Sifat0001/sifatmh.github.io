@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Kazi Amit Hasan"
 title_separator          : "-"
-name                     : &name "Kazi Amit Hasan"
-description              : &description "PhD Student at Queen's University"
-url                      : https://amithasanshuvo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Md. Mhamud Hussen Sifat"
+description              : &description "Final year student a Rajshahi University of Engineering & Technology"
+url                      : https://sifatmh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amithasanshuvo/amithasanshuvo.github.io"
+repository               : "Sifat0001/sifatmh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kazi Amit Hasan"
+  name             : "Md. Mhamud Hussen Sifat"
   avatar           : "shuvo.jpg"
-  bio              : "PhD Student in School of Computing at Queen's University | Ex-ML Engineer at ACI Limited"
-  location         : "Kingston, Ontario, Canada"
-  employer         : "Queen's University"
+  bio              : "Final year student a Rajshahi University of Engineering & Technology"
+  location         : "Rajshahi-6204, Bangladesh"
+  employer         : "Rajshahi University of Engineering & Technology"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=t9ko5DMAAAAJ&hl=en"
   email            : "kaziamit.hasan@queensu.ca"
